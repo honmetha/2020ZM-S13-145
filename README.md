@@ -1,1 +1,1 @@
-# loopback-api-training-backend
+# Next.js & Contentful

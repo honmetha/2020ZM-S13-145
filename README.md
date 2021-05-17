@@ -1,7 +1,7 @@
 # JUST ADD MARMITE
 
 <p float="left">
-  <a href="https://nextjs.org/"><img src="./public/next-js.png" alt="Next.js" width="200" style="float: left; padding-right: 20px"></a>
+  <a href="https://nextjs.org/"><img src="./public/next-js.png" alt="Next.js" width="200"></a>
   <a href="https://www.contentful.com/"><img src="./public/contentful.png" alt="Next.js" width="100"></a>
 </p>
 

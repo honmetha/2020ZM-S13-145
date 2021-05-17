@@ -1,9 +1,23 @@
-This is the Next.js starter site (and course files) for the Next.js & Contentful tutorial by the Net Ninja.
+# JUST ADD MARMITE
 
-## Getting Started
+<p float="left">
+  <a href="https://nextjs.org/"><img src="./public/next-js.png" alt="Next.js" width="200" style="float: left; padding-right: 20px"></a>
+  <a href="https://www.contentful.com/"><img src="./public/contentful.png" alt="Next.js" width="100"></a>
+</p>
 
-To use the starter project, run the following in a terminal:
+## Tutorials
 
-```bash
-npx create-next-app [your-site-name] -e https://github.com/iamshaunjp/next-contentful/tree/lesson-1-starter-site
-```
+1. Intro & Setup
+1. Contentful Models
+1. Contentful Client
+1. Outputting Recipe Data
+1. Using Images from Contentful
+1. Styled JSX
+1. Generating Paths
+1. Rich Text Content
+1. Deploying to Vercel
+1. Incremental Static Regeneration
+1. Fallback Pages
+1. Conditional Redirects
+1. Custom 404 Page
+1. Vercel Deploy Hooks
